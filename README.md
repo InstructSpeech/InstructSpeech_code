@@ -2,7 +2,7 @@
 
 To all reviewers, ACs, and PCs:
 
-We thank all reviewers for the valuable suggestions with their effort and time. Your comments have improved our work. Here we summarize our effort in addressing reviewers' concerns, and please refer to the responses to each reviewer for more details.
+**We thank all reviewers for the valuable suggestions with their effort and time. Your comments have improved our work. To promote the presentation, we upload the revised version of the manuscript, where the refined information is printed in Blue.** Here we summarize our effort in addressing reviewers' concerns, and please refer to the paper for more details.
 
 **[Extensive experimental comparison and evaluation with baseline models.]**
 
